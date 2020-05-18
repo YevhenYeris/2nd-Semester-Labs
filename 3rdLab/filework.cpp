@@ -1,4 +1,4 @@
-#include "funcs.h"
+#include "filework.h"
 
 //Фуекція очищення масиву
 void arrClear(char* arr, int N) {

@@ -3,7 +3,7 @@
 Варіант 10*/
 
 #include <iostream>
-#include "funcs.h"
+#include "filework.h"
 
 int main() {
 	int N = 1000;

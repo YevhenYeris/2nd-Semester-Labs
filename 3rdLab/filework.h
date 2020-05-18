@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef FUNCS_H
-#define FUNCS_H
+#ifndef FILEWORK_H
+#define FILEWORK_H
 #include <iostream>
 #include <fstream>
 
