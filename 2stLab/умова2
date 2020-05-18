@@ -1,0 +1,21 @@
+Єріс Євген. Група К-15
+
+Реалізувати функції для роботи з С-рядками:
+strcat
+strncat
+strcmp
+strncmp
+strcpy
+strncpy
+strcpy_s
+strchr
+strstr
+strpbrk
+strspn
+strcspn
+pop_back
+find_first_of
+find_first_not_of
+find_last_of
+compare
+Робота через меню.
